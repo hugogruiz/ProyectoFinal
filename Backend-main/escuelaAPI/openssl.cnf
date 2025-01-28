@@ -1,0 +1,11 @@
+[ req ]
+distinguished_name = req_distinguished_name
+prompt = no
+
+[ req_distinguished_name ]
+C = MX
+ST = Baja California
+L = Mexicali
+O = MiOrganizacion
+OU = MiDepartamento
+CN = localhost
